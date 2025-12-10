@@ -51,7 +51,7 @@ theme = []
   [[params.team]]
     name = "د. خالد عمر"
     specialty = "استشاري تقويم الأسنان"
-    image = "https://user-images.githubusercontent.com/12345/dr3.jpg"
+    image = "https://github.com/user-attachments/assets/d8f7bf93-e994-49f2-8286-89381db7f54e"
 
   [[params.team]]
     name = "د. احمد حسن"
