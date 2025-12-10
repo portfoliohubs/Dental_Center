@@ -41,12 +41,12 @@ theme = []
   [[params.team]]
     name = "د. محمد أحمد"
     specialty = "استشاري زراعة الأسنان"
-    image = "https://user-images.githubusercontent.com/12345/dr1.jpg"
+    image = "https://github.com/user-attachments/assets/d8f7bf93-e994-49f2-8286-89381db7f54e"
 
   [[params.team]]
     name = "د. سارة علي"
     specialty = "أخصائية تجميل وتركيبات"
-    image = "https://user-images.githubusercontent.com/12345/dr2.jpg"
+    image = "https://github.com/user-attachments/assets/d8f7bf93-e994-49f2-8286-89381db7f54e"
 
   [[params.team]]
     name = "د. خالد عمر"
@@ -54,14 +54,14 @@ theme = []
     image = "https://user-images.githubusercontent.com/12345/dr3.jpg"
 
   [[params.team]]
-    name = "د. منى حسن"
-    specialty = "طبة أسنان أطفال"
-    image = "https://user-images.githubusercontent.com/12345/dr4.jpg"
+    name = "د. احمد حسن"
+    specialty = " أخصائى أطفال"
+    image = "https://github.com/user-attachments/assets/d8f7bf93-e994-49f2-8286-89381db7f54e"
 
   [[params.team]]
     name = "د. يوسف كمال"
     specialty = "علاج جذور وعصب"
-    image = "https://user-images.githubusercontent.com/12345/dr5.jpg"
+    image = "https://github.com/user-attachments/assets/d8f7bf93-e994-49f2-8286-89381db7f54e"
 
   # 🔬 التجهيزات والتقنيات (Facilities)
   [[params.features]]
