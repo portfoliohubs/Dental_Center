@@ -1,0 +1,91 @@
+baseURL = "https://portfoliohubs.github.io/Dental_CENTER/"
+languageCode = "ar"
+title = "Royal Dental Center"
+theme = []
+
+[params]
+  whatsapp = "201000000000"
+  phone = "+201000000000"
+  map_link = "https://goo.gl/maps/..." # رابط جوجل مابس
+
+  # 🎨 الألوان (ستايل ملكي فخم)
+  [params.style]
+    primary = "#0a192f"     # كحلي ملكي غامق (Dark Navy)
+    card_bg = "#112240"     # درجة أفتح قليلاً للكروت
+    accent = "#d4af37"      # ذهبي (Luxury Gold)
+    text = "#e6f1ff"        # أبيض ثلجي
+    text_muted = "#8892b0"  # رمادي مزرق
+
+  # 🚀 SEO
+  [params.seo]
+    description = "أكبر مركز تجميل وزراعة أسنان في المدينة. فريق من 5 استشاريين، وتجهيزات عالمية لضمان راحتك."
+    keywords = "مركز أسنان, زراعة أسنان, فينير, تقويم, أطفال, ليزر, أشعة مقطعية"
+    og_image = "https://user-images.githubusercontent.com/12345/center-cover.jpg"
+
+  # 🏢 بيانات النشاط (Schema)
+  [params.business]
+    type = "Dentist"
+    name = "Royal Dental Center"
+    city = "Cairo"
+    address = "برج الأطباء، المهندسين"
+    price_range = "$$$"
+    opening_hours = "Daily 10:00-22:00"
+
+  # 🏠 الهيرو (الواجهة)
+  [params.hero]
+    title = "حيث تلتقي الفخامة.. بطب الأسنان الدقيق"
+    subtitle = "مركز متكامل مجهز بأحدث تقنيات التشخيص والعلاج الرقمي."
+    btn_text = "احجز موعدك الآن"
+
+  # 👨‍⚕️ فريق العمل (5 أطباء)
+  [[params.team]]
+    name = "د. محمد أحمد"
+    specialty = "استشاري زراعة الأسنان"
+    image = "https://user-images.githubusercontent.com/12345/dr1.jpg"
+
+  [[params.team]]
+    name = "د. سارة علي"
+    specialty = "أخصائية تجميل وتركيبات"
+    image = "https://user-images.githubusercontent.com/12345/dr2.jpg"
+
+  [[params.team]]
+    name = "د. خالد عمر"
+    specialty = "استشاري تقويم الأسنان"
+    image = "https://user-images.githubusercontent.com/12345/dr3.jpg"
+
+  [[params.team]]
+    name = "د. منى حسن"
+    specialty = "طبة أسنان أطفال"
+    image = "https://user-images.githubusercontent.com/12345/dr4.jpg"
+
+  [[params.team]]
+    name = "د. يوسف كمال"
+    specialty = "علاج جذور وعصب"
+    image = "https://user-images.githubusercontent.com/12345/dr5.jpg"
+
+  # 🔬 التجهيزات والتقنيات (Facilities)
+  [[params.features]]
+    icon = "fa-x-ray"
+    title = "أشعة مقطعية (CBCT)"
+    desc = "تشخيص دقيق ثلاثي الأبعاد داخل المركز."
+
+  [[params.features]]
+    icon = "fa-magic"
+    title = "ماسح ضوئي (Intraoral Scanner)"
+    desc = "مقاسات رقمية بدون عجين وبدقة الميكرون."
+
+  [[params.features]]
+    icon = "fa-couch"
+    title = "وحدة تعقيم مركزية"
+    desc = "أعلى معايير مكافحة العدوى العالمية Class B."
+
+  # 🖼️ المعرض (صور المركز والحالات)
+  [[params.gallery_items]]
+    title = "الاستقبال الفندقي"
+    category = "المركز"
+    image = "https://user-images.githubusercontent.com/12345/clinic-interior.jpg"
+
+  [[params.gallery_items]]
+    title = "ابتسامة هوليود"
+    category = "حالات"
+    image = "https://user-images.githubusercontent.com/12345/smile1.jpg"
